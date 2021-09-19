@@ -1,0 +1,43 @@
+2020-06-01 09:52:36,103::INFO::Loaded modle.pkl file::
+2020-06-01 09:52:36,120::INFO::Read test_cases.csv file::
+2020-06-01 09:52:36,122::INFO::Droped y attributed::
+2020-06-01 09:52:39,966::INFO::Predicted y_hat::
+2020-06-01 09:52:39,975::INFO::Accuracy = 0.867201::
+2020-06-01 09:52:40,005::INFO::Recall   = 0.958874::
+2020-06-01 09:52:40,005::INFO::Writing test_predict.csv file::
+2020-06-01 09:55:34,977::INFO::Loaded modle.pkl file::
+2020-06-01 09:55:34,994::INFO::Read test_cases.csv file::
+2020-06-01 09:55:34,996::INFO::Droped y attributed::
+2020-06-01 09:55:39,056::INFO::Predicted y_hat::
+2020-06-01 09:55:39,067::INFO::Accuracy = 0.867201::
+2020-06-01 09:55:39,097::INFO::Recall   = 0.958874::
+2020-06-01 09:55:39,097::INFO::Writing test_predict.csv file::
+2021-05-12 10:35:43,486::INFO::Loaded modle.pkl file::
+2021-05-12 10:35:43,844::INFO::Read test_cases.csv file::
+2021-05-12 10:35:43,848::INFO::Droped y attributed::
+2021-05-12 10:35:43,849::ERROR::X has 21 features, but ColumnTransformer is expecting 20 features as input.::
+2021-05-12 10:46:12,808::INFO::Loaded modle.pkl file::
+2021-05-12 10:46:12,852::INFO::Read test_cases.csv file::
+2021-05-12 10:46:12,855::INFO::Droped y attributed::
+2021-05-12 10:46:19,308::INFO::Predicted y_hat::
+2021-05-12 10:46:19,322::INFO::Accuracy = 0.867201::
+2021-05-12 10:46:19,371::INFO::Recall   = 0.958874::
+2021-05-12 10:46:19,372::INFO::Writing test_predict.csv file::
+2021-05-12 14:27:49,735::INFO::Loaded modle.pkl file::
+2021-05-12 14:27:49,791::INFO::Read test_cases.csv file::
+2021-05-12 14:27:49,796::INFO::Droped y attributed::
+2021-05-12 14:27:58,424::INFO::Predicted y_hat::
+2021-05-12 14:27:58,436::INFO::Accuracy = 0.867201::
+2021-05-12 14:27:58,476::INFO::Recall   = 0.958874::
+2021-05-12 14:27:58,477::INFO::Writing test_predict.csv file::
+2021-09-19 09:45:17,454::INFO::Loaded modle.pkl file::
+2021-09-19 09:45:17,487::INFO::Read test_cases.csv file::
+2021-09-19 09:45:17,489::INFO::Droped y attributed::
+2021-09-19 09:45:17,490::ERROR::X has 21 features, but ColumnTransformer is expecting 20 features as input.::
+2021-09-19 09:46:34,282::INFO::Loaded modle.pkl file::
+2021-09-19 09:46:34,308::INFO::Read test_cases.csv file::
+2021-09-19 09:46:34,310::INFO::Droped y attributed::
+2021-09-19 09:46:37,925::INFO::Predicted y_hat::
+2021-09-19 09:46:37,931::INFO::Accuracy = 0.867201::
+2021-09-19 09:46:37,961::INFO::Recall   = 0.958874::
+2021-09-19 09:46:37,962::INFO::Writing test_predict.csv file::
